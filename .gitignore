@@ -1,0 +1,10 @@
+# Mac nonsense
+.DS_Store
+
+# Solution files for instructor view only
+solution/
+solution.*
+
+# Excel files create temp files.
+~$*
+*/~$*
