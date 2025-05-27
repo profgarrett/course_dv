@@ -1,4 +1,4 @@
-<script src="/presentation.js"></script>
+<script src="/course_dv/presentation.js"></script>
 
 # Introduction to Data Visualization
 

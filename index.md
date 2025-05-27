@@ -13,7 +13,7 @@ Course study notes for ACCT 425 and BUDA 450 students.
 
 ## Data Visualization Concepts
 
-- [dv01. Introduction to DataVis](dv01-intro.html)
+- [dv01. EDA and Introduction to DataVis](dv01-eda.html)
 - [dv20. Data](dv21-data.html)
 - [dv30. Colors](dv30-colors.html)
 
