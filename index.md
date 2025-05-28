@@ -6,14 +6,14 @@ title: Course study notes for Data Visualization - ACCT 425/BUDA 450
 
 Course study notes for ACCT 425 and BUDA 450 students.
 
-
 ## Prerequisite skills
 
 - [dv00. File management](dv00-files)
 
 ## Data Visualization Concepts
 
-- [dv01. EDA and Introduction to DataVis](dv01-eda.html)
+- [dv01. EDA](dv01-eda)
+- [dv02. What is data visualization?](dv02-intro)
 - [dv20. Data](dv21-data.html)
 - [dv30. Colors](dv30-colors.html)
 
